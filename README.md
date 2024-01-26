@@ -16,3 +16,5 @@ A simple web app that allows users to download YouTube videos using Python and D
 - Open your browser and go to `http://127.0.0.1:8000/`.
 - Enter the URL of the YouTube video you want to download and click on the "Download" button.
 - Wait for the video to be downloaded and enjoy!
+
+![image](https://github.com/tawsifrm/YoutubeVideoDownloader/assets/121325051/087ceb95-3b83-4369-bd52-4c456d895aae)
