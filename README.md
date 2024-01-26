@@ -11,7 +11,7 @@ A simple web app that allows users to download YouTube videos using Python and D
 ## How to use it
 
 - Clone or download this repository to your local machine.
-- Install the requirements using `pip install -r requirements.txt`.
+- Install django
 - Run the app using `python manage.py runserver`.
 - Open your browser and go to `http://127.0.0.1:8000/`.
 - Enter the URL of the YouTube video you want to download and click on the "Download" button.
